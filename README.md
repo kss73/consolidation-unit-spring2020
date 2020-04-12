@@ -1,2 +1,4 @@
 # consolidation-unit-spring2020
 Digital Media Final Project
+
+For this Project I took a picture of my best friend and I and turned it into a cute cartoon. I first played around with the different features on Adobe Illustrator and realized it is very similar to GIMP. I then started outlining different parts and creating new layers for it. I started with the hair and then moved on the dress. I found this project to be very fun and and interesting as I ended up spending 7 hours staring at my computer working on the details for this. The hardest part for me was the face where I didn't want to draw the nose so I added shadows which appear a little faint but it still gives the shape of the nose. 
